@@ -1,0 +1,86 @@
+﻿  makeImage.cpp
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\linkitem.h(127): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\linkitem.h(226): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(9): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(12): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(107): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(113): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(137): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(141): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(142): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\makeimage.cpp(143): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  mainData.cpp
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\linkitem.h(127): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\linkitem.h(226): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\maindata.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\maindata.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\maindata.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\maindata.cpp(74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\maindata.cpp(257): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\maindata.cpp(263): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\maindata.cpp(374): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\maindata.cpp(460): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\maindata.cpp(467): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\linkitem.h(127): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\linkitem.h(226): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  heatmap.cpp
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\linkitem.h(127): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\linkitem.h(226): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  constructor.cpp
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\linkitem.h(127): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\linkitem.h(226): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\constructor.cpp(189): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\constructor.cpp(67): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\constructor.cpp(7): warning C4101: 'acInstVel': unreferenced local variable
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\constructor.cpp(7): warning C4101: 'acDistSum': unreferenced local variable
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\constructor.cpp(7): warning C4101: 'acOutputTrkGlbId': unreferenced local variable
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\constructor.cpp(7): warning C4101: 'acTrkNodeId': unreferenced local variable
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\constructor.cpp(7): warning C4101: 'acOutputTrkGlb': unreferenced local variable
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\constructor.cpp(7): warning C4101: 'acFrmCnt': unreferenced local variable
+  animation.cpp
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\linkitem.h(127): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\linkitem.h(226): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\animation.cpp(33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\animation.cpp(34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\animation.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\animation.cpp(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\animation.cpp(61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\animation.cpp(79): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\animation.cpp(80): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\animation.cpp(92): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\animation.cpp(106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\animation.cpp(107): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\animation.cpp(122): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lingli zeng\documents\visual studio 2017\projects\soccerproject\soccerproject\animation.cpp(123): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  soccerProject.vcxproj -> c:\users\lingli zeng\documents\visual studio 2017\Projects\soccerProject\x64\Debug\soccerProject.exe
+  soccerProject.vcxproj -> c:\users\lingli zeng\documents\visual studio 2017\Projects\soccerProject\x64\Debug\soccerProject.pdb (Partial PDB)
